@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply bg-secondary;
+        @apply text-primary;
+        font-family: 'Antonio', sans-serif;
+        font-weight: 400;
+    }
+}
+
+@layer components {
+    .text-stroke {
+        color: theme('colors.primary');
+        -webkit-text-stroke: 1px white;
+    }
+}
