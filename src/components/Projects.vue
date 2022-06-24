@@ -5,7 +5,7 @@
             <h2 class="mx-auto text-primary text-2xl font-bold uppercase mb-4 md:text-3xl lg:col-span-2 lg:text-4xl">
                 What I Do<span class="text-accent">.</span>
             </h2>
-            <div v-for="project in projects" :key="project.id">
+            <div v-for="project in projects" :key="project.id" v-motion-slide-visible-once-bottom>
                 <div class="relative mb-2">
                     <img :src="getProjectImage(project.image)" alt="Website preview image of Find My Movie Project"
                         class="w-full">
