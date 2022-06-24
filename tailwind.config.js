@@ -11,7 +11,12 @@ module.exports = {
       accent: '#EF233C',
       neutral: '#EDF2F4'
     },
-    extend: {},
+    extend: {
+      fontFamily: {
+        'primary': ['Antonio', 'sans-serif'],
+        'secondary': ['League Spartan', 'sans-serif']
+      }
+    },
   },
   plugins: [
     require('@tailwindcss/forms'),
