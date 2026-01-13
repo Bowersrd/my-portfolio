@@ -6,26 +6,16 @@
             <p class="font-secondary leading-relaxed md:text-lg lg:text-xl">
                 As you might have noticed by the big text, my name is Reggie Bowers.
                 I am a graduate from East Tennessee State University with a bachelor’s
-                degree in Criminal Justice. Criminal Justice??? That’s right, for the last
-                seven (7) plus years, I have been working in the criminal justice field.</p>
+                degree in Criminal Justice.</p>
             <p class="font-secondary mt-5 leading-relaxed md:text-lg lg:text-xl">
-                I have been a self taught developer for several years and have
-                dedicated all the free time I have outside of my current profession
-                and home life to coding. Coding is something I quickly fell in love with and my main front end strength
-                is
-                with Vue. I am very familiar with Vue 2 but have quickly began to love Vue 3 with all the new updates. I
-                am
-                a programmer who loves new challenges and never stops learning. I build websites, I work with electron
-                to
-                create desktop applications, and I also mess around in Unity with C#.</p>
+                I am currently working with Spear Interactive on a football video game called Varsity: High School Football as the Lead Gameplay Developer and UI/UX Developer. I am well versed in C# and
+                JavaScript/TypeScript. I work in C# during the day and at nights, I focus heavily on JavaScript and even freelance creating websites. Please check out all my projects to see
+                the versatility I bring to my teams.</p>
             <p class="font-secondary mt-5 leading-relaxed md:text-lg lg:text-xl">
                 I bring leadership quality to any team that I work on, something I
-                have strengthed through my current profression. Being self taught is my greatest strength, that might
-                sound
-                crazy, but being a self taught programmer has allowed me to really push myself
+                have strengthened through my current profession. Being self taught is my greatest strength as it has allowed me to really push myself
                 to the limits learning so many different languages and learning the most
-                important part of programming, where on stackoverflow I can find the
-                answer to my problem. Let's take some designs and bring them to life!</p>
+                important part of programming, to never stop learning. Let's take some designs and bring them to life!</p>
         </section>
     </transition>
 </template>

@@ -53,6 +53,19 @@ function goToLink(link) {
 }
 
 const projects = [
+  {
+    id: 0,
+    name: 'Civil GG Playbooks',
+    sub: 'Madden and College Football Playbook Site',
+    about: 'Civil GG Playbooks is a site for a client who needed a site that could handle loads of data for Madden and College Football playbooks. The site uses SQL database to provide the necessary query speeds client required. End users can search for playbooks to see all the data available inside the game. Python scripts were used for data collection to extract all data from playbook videos.',
+    how: 'Civil Playbooks is built with Vue 3 and Tailwind CSS. The backend uses a SQL database and storage buckets to host all the play images. Client needed access to the database and storage buckets, python scripts were created to allow easy upload of JSON data and images. The site is fully responsive and can be viewed on mobile, tablet, and desktop. The site uses user authentication to allow users to create their own playbooks and view custom content.',
+    image: 'civilplaybooks.webp',
+    preview: 'Live Preview',
+    previewLink: 'https://playbooks.civil.gg/',
+    source: 'private',
+    sourceLink: '',
+    stack: ['vue', 'tailwind']
+  },
     {
         id: 0,
         name: 'Find My Movie',
